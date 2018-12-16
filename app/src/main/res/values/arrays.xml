@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="feature_list">
+        <item>banner</item>
+    </array>
+
+    <array name="feature_clazz">
+        <item>top.sunny8519.common.BannerDemoActivity</item>
+    </array>
+
+    <array name="banner_urls">
+        <item>http://bpic.588ku.com/element_origin_min_pic/00/00/05/115732f19cc0079.jpg</item>
+        <item>http://bpic.588ku.com/element_origin_min_pic/00/00/05/115732f1ac12d1d.jpg</item>
+        <item>http://bpic.588ku.com/element_origin_min_pic/00/00/05/115732f1bad97d1.jpg</item>
+        <item>http://bpic.588ku.com/element_origin_min_pic/00/00/05/115732f1c83c228.jpg</item>
+        <item>http://bpic.588ku.com/element_origin_min_pic/00/00/05/115732f1d53e3dd.jpg</item>
+        <item>http://bpic.588ku.com/element_origin_min_pic/00/00/05/115732f1e37fea9.jpg</item>
+        <item>http://bpic.588ku.com/element_origin_min_pic/00/00/05/115732f1ef4d709.jpg</item>
+        <item>http://bpic.588ku.com/element_origin_min_pic/00/00/05/115732f20b3ea10.jpg</item>
+        <item>http://bpic.588ku.com/element_origin_min_pic/00/00/05/115732f21927f8d.jpg</item>
+    </array>
+
+</resources>

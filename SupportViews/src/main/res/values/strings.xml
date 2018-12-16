@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SupportViews</string>
+    
+    <string name="banner_text_indicator_initial_value">1/1</string>
+</resources>
