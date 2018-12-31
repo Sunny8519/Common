@@ -1,1 +1,1 @@
-include ':app', ':SupportViews', ':Permissions', ':Utils', ':Net'
+include ':common', ':SupportViews', ':Permissions', ':Utils', ':Net'
